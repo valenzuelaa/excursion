@@ -21,12 +21,12 @@ footer{
   text-align: right;
 }
 
-footer, .caption{
+p{
   color: gray;
   font-size: 21px;
 }
 
-a{
+.link{
   color: aquamarine;
   font-size: 16px
 }
